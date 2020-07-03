@@ -4,4 +4,4 @@ title: "Current Version"
 permalink: /version/
 ---
 
-0.0.7
+0.0.8
